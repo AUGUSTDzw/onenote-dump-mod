@@ -1,5 +1,5 @@
 # onenote-dump-mod
-Forked from genericmoniker/onenote-dump
+Forked from [genericmoniker/onenote-dump](https://github.com/genericmoniker/onenote-dump)
 
 Changes:
 * Links to attachments use `@attachment` syntax - > removed
