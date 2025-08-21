@@ -5,6 +5,7 @@ Changes:
 * Links to attachments use `@attachment` syntax - > removed
 * Dir: note and attachments -> note/attachments
 
+---
 A utility for converting a Microsoft OneNote notebook to markdown.
 
 The output is targeted for compatibility with
